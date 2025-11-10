@@ -27,6 +27,3 @@ DailyBrief.ai delivers a concise, AI-generated summary of the world’s top news
 
 ## Contact
 For questions, feedback, or partnerships, contact: ikpoma@gmail.com
-
-For questions, feedback, or partnerships, contact: your-email@example.com
-# dailybrief-ai
